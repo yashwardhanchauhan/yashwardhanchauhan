@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, Welcome to Yash's Codebase</h1>
 
 
-
-- I have interest towards learning new technologies.
-- 💻 I’m Currently learning Flutter 
-- ✨😁 I've fun working on - "PYTHON", "JAVA", "HTML", "CSS", "BOOTSTRAP", "AWS(EC2)", "DJANGO","DJANGO-REST-FRAMEWORK"
+- 🧑‍💻 I'm working professional and I have interest towards learning new technologies.
+- 📚 I’m Currently learning ReactJS & Flutter .
+- 🎯 Expertised in - PYTHON,"AWS(EC2)", "DJANGO","DJANGO-REST-FRAMEWORK"
+- 
 
