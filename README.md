@@ -3,7 +3,7 @@
 
 - 🧑‍💻 I'm working professional and I have interest towards learning new technologies.
 - 📚 I’m Currently learning **ReactJS & Flutter** .
-- 🎯 Expertised in - **PYTHON, AWS(EC2), DJANGO, DJANGO-REST-FRAMEWORK.**
-- ✅ Knowledge of DevOps, Cloud Computing, System Design and Automation Testing
+- 🎯 Expertised in - **PYTHON, FASTAPI, FLASK, AWS(EC2), DJANGO, DJANGO-REST-FRAMEWORK.**
+- ✅ Knowledge of DevOps, Cloud Computing, System Design, Automation Testing and GenAI
   
 
